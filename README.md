@@ -21,17 +21,17 @@ This project leverages Machine Learning and Deep Learning, specifically Convolut
 
 1. Clone the repository:
 
-git clone https://github.com/yourrepository/HeritageMonuments.git
+  git clone https://github.com/yourrepository/HeritageMonuments.git
 
 
 2. Install the required packages:
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 
 3. Run the Flask server:
 
-python server.py
+  python server.py
 
 4. Launch the React frontend:
 
