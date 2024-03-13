@@ -21,7 +21,7 @@ This project leverages Machine Learning and Deep Learning, specifically Convolut
 
 1. Clone the repository:
 
-  git clone https://github.com/yourrepository/HeritageMonuments.git
+  git clone https://github.com/Monument-Detection/Monument-Detection.git
 
 
 2. Install the required packages:
